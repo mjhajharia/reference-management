@@ -5,7 +5,7 @@ A simple snippet to create a Dashboard which uses Google Scholar and CrossRef to
 Input can be given as PDF or title, from which metadata such as DOI, author, link etc will be imported and stored in a Pandas Dataframe alongwith a CSV file stored remotely.
 
 
-Requirements:
+Requirements: <br/>
 [Autobib](https://github.com/jdumas/autobib) <br/>
 pip install crossrefapi <br/>
 pip install voila <br/>
