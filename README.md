@@ -6,25 +6,17 @@ Input can be given as PDF or title, from which metadata such as DOI, author, lin
 
 
 Requirements:
-Autobib - https://github.com/jdumas/autobib
-pip install crossrefapi
-pip install voila
-pip install ipywidgets
-jupyter nbextension enable --py widgetsnbextension
+[Autobib](https://github.com/jdumas/autobib) <br/>
+pip install crossrefapi <br/>
+pip install voila <br/>
+pip install ipywidgets <br/>
+jupyter nbextension enable --py widgetsnbextension <br/>
 
 
 
-Instructions:
+Instructions: <br/>
+Download Notebook and CSV file to the same directory. <br/>
+Open the Notebook in Voila. <br/>
 
-Download Notebook and CSV file to the same directory.
-Open the Notebook in Voila.
-
-Attributes of Metadata Available:
-Title
-Author
-Citation Count
-DOI
-PUblisher
-Venue
-URL
-Year
+Attributes of Metadata Available: <br/>
+Title, Author, Citation Count, DOI, Publisher, Venue, URL, Year
