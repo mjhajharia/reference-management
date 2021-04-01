@@ -7,7 +7,7 @@ Input can be given as PDF or title, from which metadata such as DOI, author, lin
 
 Requirements: <br/>
 [Autobib](https://github.com/jdumas/autobib) - This Repository has already been cloned and stored in the Main folder  <br/>
-'pip install voila' <br/>
+pip install voila <br/>
 pip install ipywidgets <br/>
 jupyter nbextension enable --py widgetsnbextension <br/>
 
